@@ -1,6 +1,7 @@
 # jenkins-workflow-action-plugin
 
 ## Prerequisites
+CodeBeamer version: v20.11+
 Copy the cb.jar from your codebeamer installation under the /libs directory
 
 ## Build
