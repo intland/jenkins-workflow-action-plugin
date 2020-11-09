@@ -1,7 +1,7 @@
 # jenkins-workflow-action-plugin
 
 ## Prerequisites
-Copy the cb.jar from your codebeamer instanlation under the /libs directory
+Copy the cb.jar from your codebeamer installation under the /libs directory
 
 ## Build
 ./gradlew jar
